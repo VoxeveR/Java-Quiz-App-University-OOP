@@ -1,0 +1,63 @@
+10
+TEST WIEDZY O ESPORCIE
+Test obejmuje 10 pytań jednokrotnego wyboru, na każde z nich przeznaczone zostało 30 sekund. Nie można cofać się ani przechodzić do następnych pytań. Powodzenia!
+1. Jakie są najpopularniejsze gry esportowe na świecie?
+a) League of Legends
+b) Fortnite
+c) Counter-Strike: Global Offensiveh
+d) Wszystkie powyższe
+D
+2. Które z poniższych krajów jest uznawane za jedno z głównych centrów esportu?
+a) Korea Południowa
+b) Stany Zjednoczone
+c) Szwecja
+d) Wszystkie powyższe
+A
+3. Jakie są podstawowe elementy drużyny w grach esportowych?
+a) Atak
+b) Obrona
+c) Support
+d) Wszystkie powyższe
+D
+4. Co oznacza skrót MOBA w kontekście gier esportowych?
+a) Massive Online Battle Arena
+b) Multiplayer Online Battle Arena
+c) Modern Online Battle Arena
+d) Many Online Battle Allies
+B
+5. Która z poniższych gier należy do gatunku battle royale?
+a) Dota 2
+b) Call of Duty
+c) Overwatch
+d) PlayerUnknown's Battlegrounds
+D
+6. Które z poniższych nie jest kategorią gier esportowych?
+a) FPS (First Person Shooter)
+b) RTS (Real-Time Strategy)
+c) RPG (Role-Playing Game)
+d) Moba (Multiplayer Online Battle Arena)
+C
+7. Jakie są największe turnieje esportowe na świecie?
+a) The International (Dota 2)
+b) League of Legends World Championship
+c) Fortnite World Cup
+d) Wszystkie powyższe
+D
+8. Jakie umiejętności są istotne dla zawodowego gracza esportowego?
+a) Szybkie reakcje
+b) Doskonała koordynacja
+c) Zrozumienie strategii gry
+d) Wszystkie powyższe
+D
+9. Co oznacza GG w esporcie?
+a) Good Game
+b) Great Gaming
+c) Go Green
+d) Good Grind
+A
+10. Która z poniższych platform streamingowych jest najpopularniejsza?
+a) Twitch
+b) YouTube Gaming
+c) Facebook Gaming
+d) Mixer
+A
