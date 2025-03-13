@@ -59,7 +59,7 @@ public class Client {
 
                     questionCount--;
                 } catch (IOException e) {
-                    System.out.println("aha");
+                    System.out.println("Error");
                  }
             }
         System.out.println("The test has ended. You'll receive ur results soon");
